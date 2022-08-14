@@ -1,7 +1,6 @@
 Hi, thank you for buying my script, I'm very grateful!
 
-If you need help contact me on discord: okok#3488
-Discord server: https://discord.gg/FauTgGRUku
+If you need help contact me on discord: AnthonyK#9455
 
 1. First of all add the required tables to your database, executing the following code: en zet je logo in web met de naam "logo.png"
 
