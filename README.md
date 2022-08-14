@@ -4,9 +4,6 @@ If you need help contact me on discord: AnthonyK#9455
 
 1. First of all add the required tables to your database, executing the following code: en zet je logo in web met de naam "logo.png"
 
-ALTER TABLE `users` ADD COLUMN `iban` varchar(255) NULL DEFAULT NULL;
-
-ALTER TABLE `users` ADD COLUMN `pincode` int(50) NULL DEFAULT NULL;
 
 2. To add salary/paycheck transactions navigate to 'es_extended/server' and open 'paycheck.lua'.
 
